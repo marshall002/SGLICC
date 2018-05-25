@@ -1,0 +1,28 @@
+C:\Users\Roger\Desktop\Cursos 2016-I\Taller de Gerencia de Proyectos\2018-1\1er Entregable\SGLTCC\CTR\bin\Debug\CTR.dll
+C:\Users\Roger\Desktop\Cursos 2016-I\Taller de Gerencia de Proyectos\2018-1\1er Entregable\SGLTCC\CTR\bin\Debug\CTR.pdb
+C:\Users\Roger\Desktop\Cursos 2016-I\Taller de Gerencia de Proyectos\2018-1\1er Entregable\SGLTCC\CTR\bin\Debug\DAO.dll
+C:\Users\Roger\Desktop\Cursos 2016-I\Taller de Gerencia de Proyectos\2018-1\1er Entregable\SGLTCC\CTR\bin\Debug\DTO.dll
+C:\Users\Roger\Desktop\Cursos 2016-I\Taller de Gerencia de Proyectos\2018-1\1er Entregable\SGLTCC\CTR\bin\Debug\DAO.pdb
+C:\Users\Roger\Desktop\Cursos 2016-I\Taller de Gerencia de Proyectos\2018-1\1er Entregable\SGLTCC\CTR\bin\Debug\DTO.pdb
+C:\Users\Roger\Desktop\Cursos 2016-I\Taller de Gerencia de Proyectos\2018-1\1er Entregable\SGLTCC\CTR\obj\Debug\CTR.csprojResolveAssemblyReference.cache
+C:\Users\Roger\Desktop\Cursos 2016-I\Taller de Gerencia de Proyectos\2018-1\1er Entregable\SGLTCC\CTR\obj\Debug\CTR.csproj.CoreCompileInputs.cache
+C:\Users\Roger\Desktop\Cursos 2016-I\Taller de Gerencia de Proyectos\2018-1\1er Entregable\SGLTCC\CTR\obj\Debug\CTR.dll
+C:\Users\Roger\Desktop\Cursos 2016-I\Taller de Gerencia de Proyectos\2018-1\1er Entregable\SGLTCC\CTR\obj\Debug\CTR.pdb
+C:\Users\SEBASTIAN\Desktop\SGLICC\CTR\bin\Debug\CTR.dll
+C:\Users\SEBASTIAN\Desktop\SGLICC\CTR\bin\Debug\CTR.pdb
+C:\Users\SEBASTIAN\Desktop\SGLICC\CTR\bin\Debug\DAO.dll
+C:\Users\SEBASTIAN\Desktop\SGLICC\CTR\bin\Debug\DTO.dll
+C:\Users\SEBASTIAN\Desktop\SGLICC\CTR\bin\Debug\DAO.pdb
+C:\Users\SEBASTIAN\Desktop\SGLICC\CTR\bin\Debug\DTO.pdb
+C:\Users\SEBASTIAN\Desktop\SGLICC\CTR\obj\Debug\CTR.csprojResolveAssemblyReference.cache
+C:\Users\SEBASTIAN\Desktop\SGLICC\CTR\obj\Debug\CTR.dll
+C:\Users\SEBASTIAN\Desktop\SGLICC\CTR\obj\Debug\CTR.pdb
+C:\Users\SEBASTIAN\Desktop\2018-1\Proyectos\SGLICC\CTR\bin\Debug\CTR.dll
+C:\Users\SEBASTIAN\Desktop\2018-1\Proyectos\SGLICC\CTR\bin\Debug\CTR.pdb
+C:\Users\SEBASTIAN\Desktop\2018-1\Proyectos\SGLICC\CTR\bin\Debug\DAO.dll
+C:\Users\SEBASTIAN\Desktop\2018-1\Proyectos\SGLICC\CTR\bin\Debug\DTO.dll
+C:\Users\SEBASTIAN\Desktop\2018-1\Proyectos\SGLICC\CTR\bin\Debug\DAO.pdb
+C:\Users\SEBASTIAN\Desktop\2018-1\Proyectos\SGLICC\CTR\bin\Debug\DTO.pdb
+C:\Users\SEBASTIAN\Desktop\2018-1\Proyectos\SGLICC\CTR\obj\Debug\CTR.csprojResolveAssemblyReference.cache
+C:\Users\SEBASTIAN\Desktop\2018-1\Proyectos\SGLICC\CTR\obj\Debug\CTR.dll
+C:\Users\SEBASTIAN\Desktop\2018-1\Proyectos\SGLICC\CTR\obj\Debug\CTR.pdb
